@@ -1,0 +1,108 @@
+*
+{
+
+    margin: 0;
+    padding: 0;
+
+}
+
+a
+{
+
+    text-decoration: none;
+
+}
+
+li
+{
+
+    text-decoration: none;
+    list-style: none;
+
+}
+
+body
+{
+
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.logo 
+{
+
+    background: #000;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.graficlogo
+{
+
+    padding: 5px;
+    max-width: 100%;
+    box-sizing: border-box;
+
+}
+
+.MenuMain
+{
+
+    margin: auto;
+    width: 800px;
+    height: 100px;
+
+}
+
+.Menu
+{
+
+    background-color: #fff;
+    font-size: 14px;
+    margin-top: 40px;
+
+}
+
+.Menu a
+{
+
+    color: #000;
+    padding: 14px;
+    text-align: center;
+    font-size: 15px;
+
+}
+
+.Menu a:hover
+{
+
+    border-bottom: 2px solid #000;
+
+}
+
+.blog-container
+{
+
+    background: #ebeaea;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0. 2) 0 4px 2px -2px;
+    font-weight: 100;
+    margin: 48px auto;
+    width: 50rem;
+
+}
+
+.blog-container
+{
+    border-color: #ff4d4d;
+    
+}
+
+.blog-cover
+{
+    
+   background-image: url(https://habrastorage.org/getpro/habr/upload_files/4a9/9d4/0a4/4a99d40a4b0a48b7abf89857ebd13e50.png);
+
+}
